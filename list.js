@@ -48,7 +48,7 @@ class Form extends React.Component{
     render() {
         return (
             <form onSubmit={e => {this.submit(e)}}>
-                <input ref="In" type="text" placeholder="说点什么"/>
+                <input ref="In" type="text" placeholder="说点什么 -按回车提交"/>
             </form>
         )
     }
