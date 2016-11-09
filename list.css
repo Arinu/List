@@ -1,0 +1,35 @@
+*{
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 520px;
+    margin: 30px auto;
+}
+h3{
+    font-size: 28px;
+}
+.lidiv{
+    margin: 6px 20px 6px 0;
+}
+li{
+    background: #E7E7E7;
+    width: 150px;
+    padding: 5px;
+    display: inline-block;
+}
+button{
+    background-color: #e7e7e7;
+    padding: 4px;
+    border: 1px solid #8cb4e2;
+}
+input{
+    margin-top: 20px;
+    border: 2px solid #D1A0E8;
+    border-radius: 4px;
+    padding: 3px;
+}
+.green{
+    color: #3F9B61;
+}
